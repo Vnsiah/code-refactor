@@ -143,7 +143,7 @@ section {
     color: #ffffff;
 }
 
-#online-reputation-management {
+#online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,14 +152,14 @@ section {
     color: #ffffff;
 }
 
-#social-media-marketing {
+/* #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
 .search-engine-optimization img {
     max-height: 200px;
