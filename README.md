@@ -19,22 +19,20 @@ NA
 NA
 
 ## Support
-This website is very helpful: "https://www.w3schools.com/html/html5_semantic_elements.asp"
+This website was very helpful during this challege: "https://www.w3schools.com/html/html5_semantic_elements.asp"
 
 
 ## Roadmap
 MA
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you want to contribute, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
+
 
 ## Authors and acknowledgment
 Thank you to Katharine Redford
 
 ## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+licensed under the none license.
